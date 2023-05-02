@@ -1,9 +1,64 @@
 [
-      {
-        "chef_id": "1",
+      
+  {
+    "chef_id": "1",
+    "chef_name": "Kabir Uddin",
+    "chef_picture": "https://img.freepik.com/free-photo/chef-holding-pan-with-fire-inside_144627-16644.jpg?w=1060&t=st=1683044473~exp=1683045073~hmac=face15dd0e4b52fdb91ebe576b659c13668cc6314116536f29f63aae62442cc3",
+    "bio": "I am a chef in Bangladesh, with over 8 years of experience in the culinary industry. I am known for her fresh and innovative approach to cooking, and for my ability to create dishes that are both healthy and delicious.I am passionate about using fresh and local ingredients in  dishes, and is committed to promoting a sustainable and healthy food culture in Bangladesh.",
+    "years_of_experience": 8,
+    "like": 25000,
+    "number_of_recipes": 25,
+   
+        "recipes": [
+          {
+            "recipe_name": "Chicken Bhuna",
+            "ingredients": [
+              "1 lb chicken breast",
+              "2 onions",
+              "1/2 cup yogurt",
+              "1 tbsp ginger paste",
+              "1 tbsp garlic paste",
+              "1 tsp turmeric powder"
+            ],
+            "cooking_method": "1. Mix the yogurt with ginger paste, garlic paste, turmeric powder, and salt. \n2. Marinate the chicken pieces with the yogurt mixture for 2 hours. \n3. Heat oil in a pan and fry the onions until golden brown. \n4. Add the marinated chicken to the pan and cook for 10-15 minutes until the chicken is cooked through. \n5. Add water and cook for another 5-7 minutes until the sauce thickens.",
+            "rating": 4.5
+         
+          },
+          {
+            "recipe_name": "Beef Curry",
+            "ingredients": [
+              "1 lb beef",
+              "2 onions",
+              "1 tomato",
+              "1 tbsp ginger paste",
+              "1 tbsp garlic paste",
+              "1 tsp turmeric powder"
+            ],
+            "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown. \n2. Add the ginger paste and garlic paste to the pan and fry for another minute. \n3. Add the beef pieces to the pan and cook for 10-15 minutes until the beef is browned on all sides. \n4. Add the tomatoes, turmeric powder, and salt to the pan. \n5. Add water and cook for another 20-25 minutes until the beef is tender and the sauce has thickened.",
+            "rating": 4.2
+           
+          },
+          {
+            "recipe_name": "Shorshe Ilish (Hilsa Fish in Mustard Sauce)",
+            "ingredients": [
+              "4 pieces of hilsa fish",
+              "1/2 cup mustard seeds",
+              "4 green chilies",
+              "1/2 tsp turmeric powder",
+              "1/2 tsp red chili powder",
+              "1/2 tsp salt"
+            ],
+            "cooking_method": "1. Grind the mustard seeds and green chilies together to make a paste. \n2. Marinate the hilsa fish pieces with turmeric powder and salt for 10 minutes. \n3. Heat oil in a pan and fry the fish pieces until golden brown. \n4. Remove the fish from the pan and keep aside. \n5. In the same pan, add the mustard and chili paste, turmeric powder, red chili powder, and salt. \n6. Add water and cook for 5-7 minutes until the sauce thickens. \n7. Add the fried fish to the pan and cook for another 2-3 minutes.",
+            "rating": 4.8
+          
+          }
+        ]
+      },
+  {
+        "chef_id": "2",
         "chef_name": "Mridula Kabir",
         "chef_picture": "https://img.freepik.com/free-photo/young-confident-caucasian-cook-girl-chef-uniform-holds-wooden-spoon-puts-hand-waist-isolated-pink-wall-with-copy-space_141793-33208.jpg?w=996&t=st=1683028784~exp=1683029384~hmac=3c6f86d26270b9092a4e4ceb1cd0634e73a72eff7a96dc37f48f61698b14d3fd",
-        "bio": "Mridula Kabir is a renowned chef in Bangladesh, with over 5 years of experience in cooking authentic Bangladeshi dishes. He has worked in various restaurants and hotels across the country, and has won several awards for his culinary skills. Mridul is known for his passion for using fresh and local ingredients in his dishes, and for his ability to create unique and flavorful dishes that capture the essence of Bangladeshi cuisine.",
+        "bio": "I am a renowned chef in Bangladesh, with over 5 years of experience in cooking authentic Bangladeshi dishes. I worked in various restaurants and hotels across the country, and i won several awards for his culinary skills. I am known for my passion for using fresh and local ingredients in my dishes, and for my ability to create unique and flavorful dishes that capture the essence of Bangladeshi cuisine.",
         "years_of_experience": 5,
         "like": 23000,
         "number_of_recipes": 25,
@@ -55,10 +110,10 @@
             ]
           },
       {
-        "chef_id": "2",
+        "chef_id": "3",
         "chef_name": "Kabir Ahmed",
         "chef_picture": "https://img.freepik.com/free-photo/studio-portrait-cook-man-with-fresh-vegetables-table_613910-10050.jpg?w=1060&t=st=1683028531~exp=1683029131~hmac=b95e81dd6ee7a28ebcaf9f9e09688146ef5a869e2959e89350cd246e5d43f2c3",
-        "bio": " Kabir Ahmed is a popular chef in Bangladesh, with over 7 years of experience in the culinary industry. She is known for her innovative and creative approach to cooking, and for her ability to combine traditional and modern techniques to create unique and delicious dishes. Nadia is also a successful cookbook author, and has written several books on Bangladeshi cuisine.",
+        "bio": " I am a popular chef in Bangladesh, with over 7 years of experience in the culinary industry. I am known for her innovative and creative approach to cooking, and for my ability to combine traditional and modern techniques to create unique and delicious dishes. I am also a successful cookbook author, and has written several books on Bangladeshi cuisine.",
         "years_of_experience":7,
         "like": 20000,
         "number_of_recipes": 25,
@@ -108,175 +163,123 @@
               }
             ]
           },
-      {
-        "chef_id": "3",
-        "chef_name": "Farhan Rahman",
-        "chef_picture": "https://img.freepik.com/free-photo/smiling-young-male-cook-wearing-chef-uniform-glasses-isolated-white-wall_141793-78421.jpg?w=996&t=st=1683044304~exp=1683044904~hmac=3aa39e30b2728b1a9aa3564a151af2e868002f3e27b4f58ebaf91c43c4e39f3e",
-        "bio": "Farhan Rahman is a master chef in Bangladesh, with over 8 years of experience in cooking authentic Bangladeshi dishes. He has worked in some of the finest restaurants and hotels in the country, and has trained several aspiring chefs. Kamal is known for his dedication to using the best quality ingredients, and for his passion for creating dishes that showcase the rich flavors and aromas of Bangladeshi cuisine. He is a true culinary artist, and is widely respected in the industry." ,
-        "years_of_experience": 8,
-        "like": 17000,
-        "number_of_recipes": 25,
-       
-            "recipes": [
-              {
-                "recipe_name": "Chicken Bhuna",
-                "ingredients": [
-                  "1 lb chicken breast",
-                  "2 onions",
-                  "1/2 cup yogurt",
-                  "1 tbsp ginger paste",
-                  "1 tbsp garlic paste",
-                  "1 tsp turmeric powder"
-                ],
-                "cooking_method": "1. Mix the yogurt with ginger paste, garlic paste, turmeric powder, and salt. \n2. Marinate the chicken pieces with the yogurt mixture for 2 hours. \n3. Heat oil in a pan and fry the onions until golden brown. \n4. Add the marinated chicken to the pan and cook for 10-15 minutes until the chicken is cooked through. \n5. Add water and cook for another 5-7 minutes until the sauce thickens.",
-                "rating": 4.5
-             
+          {
+            "chef_id": "4",
+            "chef_name": "Farhan Rahman",
+            "chef_picture": "https://img.freepik.com/free-photo/smiling-young-male-cook-wearing-chef-uniform-glasses-isolated-white-wall_141793-78421.jpg?w=996&t=st=1683044304~exp=1683044904~hmac=3aa39e30b2728b1a9aa3564a151af2e868002f3e27b4f58ebaf91c43c4e39f3e",
+            "bio": "I am  a master chef in Bangladesh, with over 8 years of experience in cooking authentic Bangladeshi dishes. I worked in some of the finest restaurants and hotels in the country, and has trained several aspiring chefs. Kamal is known for his dedication to using the best quality ingredients, and for his passion for creating dishes that showcase the rich flavors and aromas of Bangladeshi cuisine.I am  a true culinary artist, and is widely respected in the industry." ,
+            "years_of_experience": 8,
+            "like": 17000,
+            "number_of_recipes": 25,
+           
+                "recipes": [
+                  {
+                    "recipe_name": "Chicken Bhuna",
+                    "ingredients": [
+                      "1 lb chicken breast",
+                      "2 onions",
+                      "1/2 cup yogurt",
+                      "1 tbsp ginger paste",
+                      "1 tbsp garlic paste",
+                      "1 tsp turmeric powder"
+                    ],
+                    "cooking_method": "1. Mix the yogurt with ginger paste, garlic paste, turmeric powder, and salt. \n2. Marinate the chicken pieces with the yogurt mixture for 2 hours. \n3. Heat oil in a pan and fry the onions until golden brown. \n4. Add the marinated chicken to the pan and cook for 10-15 minutes until the chicken is cooked through. \n5. Add water and cook for another 5-7 minutes until the sauce thickens.",
+                    "rating": 4.5
+                 
+                  },
+                  {
+                    "recipe_name": "Beef Curry",
+                    "ingredients": [
+                      "1 lb beef",
+                      "2 onions",
+                      "1 tomato",
+                      "1 tbsp ginger paste",
+                      "1 tbsp garlic paste",
+                      "1 tsp turmeric powder"
+                    ],
+                    "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown. \n2. Add the ginger paste and garlic paste to the pan and fry for another minute. \n3. Add the beef pieces to the pan and cook for 10-15 minutes until the beef is browned on all sides. \n4. Add the tomatoes, turmeric powder, and salt to the pan. \n5. Add water and cook for another 20-25 minutes until the beef is tender and the sauce has thickened.",
+                    "rating": 4.2
+                   
+                  },
+                  {
+                    "recipe_name": "Shorshe Ilish (Hilsa Fish in Mustard Sauce)",
+                    "ingredients": [
+                      "4 pieces of hilsa fish",
+                      "1/2 cup mustard seeds",
+                      "4 green chilies",
+                      "1/2 tsp turmeric powder",
+                      "1/2 tsp red chili powder",
+                      "1/2 tsp salt"
+                    ],
+                    "cooking_method": "1. Grind the mustard seeds and green chilies together to make a paste. \n2. Marinate the hilsa fish pieces with turmeric powder and salt for 10 minutes. \n3. Heat oil in a pan and fry the fish pieces until golden brown. \n4. Remove the fish from the pan and keep aside. \n5. In the same pan, add the mustard and chili paste, turmeric powder, red chili powder, and salt. \n6. Add water and cook for 5-7 minutes until the sauce thickens. \n7. Add the fried fish to the pan and cook for another 2-3 minutes.",
+                    "rating": 4.8
+                  
+                  }
+                ]
               },
               {
-                "recipe_name": "Beef Curry",
-                "ingredients": [
-                  "1 lb beef",
-                  "2 onions",
-                  "1 tomato",
-                  "1 tbsp ginger paste",
-                  "1 tbsp garlic paste",
-                  "1 tsp turmeric powder"
-                ],
-                "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown. \n2. Add the ginger paste and garlic paste to the pan and fry for another minute. \n3. Add the beef pieces to the pan and cook for 10-15 minutes until the beef is browned on all sides. \n4. Add the tomatoes, turmeric powder, and salt to the pan. \n5. Add water and cook for another 20-25 minutes until the beef is tender and the sauce has thickened.",
-                "rating": 4.2
+                "chef_id": "5",
+                "chef_name": "Tasnim Ahmed",
+                "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=1060&t=st=1683044414~exp=1683045014~hmac=4d0b9a85a2e1dcf34349d9f537321353655913b3bbec6785f4919737b39c2f4b",
+                "bio": "I am a a popular chef in Bangladesh, with over 4 years of experience in the culinary industry. I known for her innovative and creative approach to cooking, and for my ability to combine traditional and modern techniques to create unique and delicious dishes. I am also a successful cookbook author, and has written several books on Bangladeshi cuisine.",
+                "years_of_experience": 4,
+                "like": 15000,
+                "number_of_recipes": 25,
                
-              },
-              {
-                "recipe_name": "Shorshe Ilish (Hilsa Fish in Mustard Sauce)",
-                "ingredients": [
-                  "4 pieces of hilsa fish",
-                  "1/2 cup mustard seeds",
-                  "4 green chilies",
-                  "1/2 tsp turmeric powder",
-                  "1/2 tsp red chili powder",
-                  "1/2 tsp salt"
-                ],
-                "cooking_method": "1. Grind the mustard seeds and green chilies together to make a paste. \n2. Marinate the hilsa fish pieces with turmeric powder and salt for 10 minutes. \n3. Heat oil in a pan and fry the fish pieces until golden brown. \n4. Remove the fish from the pan and keep aside. \n5. In the same pan, add the mustard and chili paste, turmeric powder, red chili powder, and salt. \n6. Add water and cook for 5-7 minutes until the sauce thickens. \n7. Add the fried fish to the pan and cook for another 2-3 minutes.",
-                "rating": 4.8
+                    "recipes": [
+                      {
+                        "recipe_name": "Chicken Bhuna",
+                        "ingredients": [
+                          "1 lb chicken breast",
+                          "2 onions",
+                          "1/2 cup yogurt",
+                          "1 tbsp ginger paste",
+                          "1 tbsp garlic paste",
+                          "1 tsp turmeric powder"
+                        ],
+                        "cooking_method": "1. Mix the yogurt with ginger paste, garlic paste, turmeric powder, and salt. \n2. Marinate the chicken pieces with the yogurt mixture for 2 hours. \n3. Heat oil in a pan and fry the onions until golden brown. \n4. Add the marinated chicken to the pan and cook for 10-15 minutes until the chicken is cooked through. \n5. Add water and cook for another 5-7 minutes until the sauce thickens.",
+                        "rating": 4.5
+                     
+                      },
+                      {
+                        "recipe_name": "Beef Curry",
+                        "ingredients": [
+                          "1 lb beef",
+                          "2 onions",
+                          "1 tomato",
+                          "1 tbsp ginger paste",
+                          "1 tbsp garlic paste",
+                          "1 tsp turmeric powder"
+                        ],
+                        "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown. \n2. Add the ginger paste and garlic paste to the pan and fry for another minute. \n3. Add the beef pieces to the pan and cook for 10-15 minutes until the beef is browned on all sides. \n4. Add the tomatoes, turmeric powder, and salt to the pan. \n5. Add water and cook for another 20-25 minutes until the beef is tender and the sauce has thickened.",
+                        "rating": 4.2
+                       
+                      },
+                      {
+                        "recipe_name": "Shorshe Ilish (Hilsa Fish in Mustard Sauce)",
+                        "ingredients": [
+                          "4 pieces of hilsa fish",
+                          "1/2 cup mustard seeds",
+                          "4 green chilies",
+                          "1/2 tsp turmeric powder",
+                          "1/2 tsp red chili powder",
+                          "1/2 tsp salt"
+                        ],
+                        "cooking_method": "1. Grind the mustard seeds and green chilies together to make a paste. \n2. Marinate the hilsa fish pieces with turmeric powder and salt for 10 minutes. \n3. Heat oil in a pan and fry the fish pieces until golden brown. \n4. Remove the fish from the pan and keep aside. \n5. In the same pan, add the mustard and chili paste, turmeric powder, red chili powder, and salt. \n6. Add water and cook for 5-7 minutes until the sauce thickens. \n7. Add the fried fish to the pan and cook for another 2-3 minutes.",
+                        "rating": 4.8
+                      
+                      }
+                    ]
+                  },
               
-              }
-            ]
-          },
-      {
-        "chef_id": "4",
-        "chef_name": "Tasnim Ahmed",
-        "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=1060&t=st=1683044414~exp=1683045014~hmac=4d0b9a85a2e1dcf34349d9f537321353655913b3bbec6785f4919737b39c2f4b",
-        "bio": "Tasnim Ahmed is a popular chef in Bangladesh, with over 4 years of experience in the culinary industry. She is known for her innovative and creative approach to cooking, and for her ability to combine traditional and modern techniques to create unique and delicious dishes. Nadia is also a successful cookbook author, and has written several books on Bangladeshi cuisine.",
-        "years_of_experience": 4,
-        "like": 15000,
-        "number_of_recipes": 25,
-       
-            "recipes": [
-              {
-                "recipe_name": "Chicken Bhuna",
-                "ingredients": [
-                  "1 lb chicken breast",
-                  "2 onions",
-                  "1/2 cup yogurt",
-                  "1 tbsp ginger paste",
-                  "1 tbsp garlic paste",
-                  "1 tsp turmeric powder"
-                ],
-                "cooking_method": "1. Mix the yogurt with ginger paste, garlic paste, turmeric powder, and salt. \n2. Marinate the chicken pieces with the yogurt mixture for 2 hours. \n3. Heat oil in a pan and fry the onions until golden brown. \n4. Add the marinated chicken to the pan and cook for 10-15 minutes until the chicken is cooked through. \n5. Add water and cook for another 5-7 minutes until the sauce thickens.",
-                "rating": 4.5
-             
-              },
-              {
-                "recipe_name": "Beef Curry",
-                "ingredients": [
-                  "1 lb beef",
-                  "2 onions",
-                  "1 tomato",
-                  "1 tbsp ginger paste",
-                  "1 tbsp garlic paste",
-                  "1 tsp turmeric powder"
-                ],
-                "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown. \n2. Add the ginger paste and garlic paste to the pan and fry for another minute. \n3. Add the beef pieces to the pan and cook for 10-15 minutes until the beef is browned on all sides. \n4. Add the tomatoes, turmeric powder, and salt to the pan. \n5. Add water and cook for another 20-25 minutes until the beef is tender and the sauce has thickened.",
-                "rating": 4.2
-               
-              },
-              {
-                "recipe_name": "Shorshe Ilish (Hilsa Fish in Mustard Sauce)",
-                "ingredients": [
-                  "4 pieces of hilsa fish",
-                  "1/2 cup mustard seeds",
-                  "4 green chilies",
-                  "1/2 tsp turmeric powder",
-                  "1/2 tsp red chili powder",
-                  "1/2 tsp salt"
-                ],
-                "cooking_method": "1. Grind the mustard seeds and green chilies together to make a paste. \n2. Marinate the hilsa fish pieces with turmeric powder and salt for 10 minutes. \n3. Heat oil in a pan and fry the fish pieces until golden brown. \n4. Remove the fish from the pan and keep aside. \n5. In the same pan, add the mustard and chili paste, turmeric powder, red chili powder, and salt. \n6. Add water and cook for 5-7 minutes until the sauce thickens. \n7. Add the fried fish to the pan and cook for another 2-3 minutes.",
-                "rating": 4.8
-              
-              }
-            ]
-          },
-      {
-        "chef_id": "5",
-        "chef_name": "Mohammad Zihad",
-        "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=1060&t=st=1683028384~exp=1683028984~hmac=87e95c9f3c9e3908b825450315213b5ff3814dd1f6eae9b95adcc9223c5059a1",
-        "bio": "Mohammad Zihad is a talented chef in Bangladesh, with over 5 years of experience in the culinary industry. He is known for his expertise in traditional Bangladeshi cuisine, and for his ability to create dishes that are both authentic and delicious. Shakil is passionate about using",
-        "years_of_experience": 5,
-        "like": 12000,
-        "number_of_recipes": 25,
-       
-            "recipes": [
-              {
-                "recipe_name": "Chicken Bhuna",
-                "ingredients": [
-                  "1 lb chicken breast",
-                  "2 onions",
-                  "1/2 cup yogurt",
-                  "1 tbsp ginger paste",
-                  "1 tbsp garlic paste",
-                  "1 tsp turmeric powder"
-                ],
-                "cooking_method": "1. Mix the yogurt with ginger paste, garlic paste, turmeric powder, and salt. \n2. Marinate the chicken pieces with the yogurt mixture for 2 hours. \n3. Heat oil in a pan and fry the onions until golden brown. \n4. Add the marinated chicken to the pan and cook for 10-15 minutes until the chicken is cooked through. \n5. Add water and cook for another 5-7 minutes until the sauce thickens.",
-                "rating": 4.5
-             
-              },
-              {
-                "recipe_name": "Beef Curry",
-                "ingredients": [
-                  "1 lb beef",
-                  "2 onions",
-                  "1 tomato",
-                  "1 tbsp ginger paste",
-                  "1 tbsp garlic paste",
-                  "1 tsp turmeric powder"
-                ],
-                "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown. \n2. Add the ginger paste and garlic paste to the pan and fry for another minute. \n3. Add the beef pieces to the pan and cook for 10-15 minutes until the beef is browned on all sides. \n4. Add the tomatoes, turmeric powder, and salt to the pan. \n5. Add water and cook for another 20-25 minutes until the beef is tender and the sauce has thickened.",
-                "rating": 4.2
-               
-              },
-              {
-                "recipe_name": "Shorshe Ilish (Hilsa Fish in Mustard Sauce)",
-                "ingredients": [
-                  "4 pieces of hilsa fish",
-                  "1/2 cup mustard seeds",
-                  "4 green chilies",
-                  "1/2 tsp turmeric powder",
-                  "1/2 tsp red chili powder",
-                  "1/2 tsp salt"
-                ],
-                "cooking_method": "1. Grind the mustard seeds and green chilies together to make a paste. \n2. Marinate the hilsa fish pieces with turmeric powder and salt for 10 minutes. \n3. Heat oil in a pan and fry the fish pieces until golden brown. \n4. Remove the fish from the pan and keep aside. \n5. In the same pan, add the mustard and chili paste, turmeric powder, red chili powder, and salt. \n6. Add water and cook for 5-7 minutes until the sauce thickens. \n7. Add the fried fish to the pan and cook for another 2-3 minutes.",
-                "rating": 4.8
-              
-              }
-            ]
-          },
+     
       {
         "chef_id": "6",
-        "chef_name": "Kabir Uddin",
-        "chef_picture": "https://img.freepik.com/free-photo/chef-holding-pan-with-fire-inside_144627-16644.jpg?w=1060&t=st=1683044473~exp=1683045073~hmac=face15dd0e4b52fdb91ebe576b659c13668cc6314116536f29f63aae62442cc3",
-        "bio": "Kabir Uddin is a young and talented chef in Bangladesh, with over 8 years of experience in the culinary industry. She is known for her fresh and innovative approach to cooking, and for her ability to create dishes that are both healthy and delicious. Sadia is passionate about using fresh and local ingredients in her dishes, and is committed to promoting a sustainable and healthy food culture in Bangladesh.",
-        "years_of_experience": 8,
-        "like": 25000,
+        "chef_name": "Mohammad Zihad",
+        "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=1060&t=st=1683028384~exp=1683028984~hmac=87e95c9f3c9e3908b825450315213b5ff3814dd1f6eae9b95adcc9223c5059a1",
+        "bio": "I am a  chef in Bangladesh, with over 5 years of experience in the culinary industry. I known for his expertise in traditional Bangladeshi cuisine, and for my ability to create dishes that are both authentic and delicious. I am very  passionate about using",
+        "years_of_experience": 5,
+        "like": 12000,
         "number_of_recipes": 25,
        
             "recipes": [
